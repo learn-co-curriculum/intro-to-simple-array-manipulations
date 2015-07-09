@@ -40,4 +40,4 @@ artists
 You can see that while pop removes an element from an array, its return value is the last element, in this case "Cai Guo-Qiang".
 
 
-> One of the most common problems you will encounter on your journey to becoming a software developer is not knowing what object a method returns. For example: you might assume that the result of a method call is a string but instead it is an array.  
+> One of the most common problems you will encounter on your journey to becoming a software developer is not knowing what object a method returns. For example: you might **assume** that the result of a method call is a string but instead it is an array.  
