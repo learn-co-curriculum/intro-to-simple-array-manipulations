@@ -1,6 +1,6 @@
 # Introduction To Simple Array Manipulations
 
-In a previous lab, you learned how to create arrays and access the elements of an array. Now you are ready to manipulate arrays using different ruby methods.
+In a previous lab, you learned how to create arrays and access the elements of an array. Now you are ready to manipulate arrays using different Ruby methods.
 
 > Make sure to consult the Official Documentation of the Ruby Language when solving this lab.
 
